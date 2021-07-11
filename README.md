@@ -1,6 +1,6 @@
 # Using-SLAM-map-to-launch-the-navigation
 follow the steps:
-##Open the gazebo as gazebomap.png
+## Open the gazebo as gazebomap.png
 * $ export TURTLEBOT3_MODEL=burger
 * $ roslaunch turtlebot3_gazebo turtlebot3_world.launch
 * **or** follow **here** https://github.com/ZainabElzainy/Use-Turtlebot3-with-SLAMTurtlebot3-with-SLAM-approach-to-create-and-save-a-map.git
